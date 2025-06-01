@@ -2,7 +2,8 @@
 
 ![Timetabled Screenshot](https://courses.codepath.org/course_images/web102/lab1/required.png)
 
-<img width="726" alt="Screenshot 2025-06-01 at 3 15 18 PM" src="https://github.com/user-attachments/assets/377bca29-d733-448d-836f-6b3eddf02002" />
+
+![WEB 102 Lab 1 - timetabled submission](https://github.com/user-attachments/assets/b4c75b07-45f2-42e3-bfff-575ec15586ce)
 
 
 ![Deployment](https://velvety-parfait-7bcf3f.netlify.app/)
