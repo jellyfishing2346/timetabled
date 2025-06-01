@@ -2,7 +2,8 @@
 
 ![Timetabled Screenshot](https://courses.codepath.org/course_images/web102/lab1/required.png)
 
-![Recording](file:///var/folders/b2/rycdlzl16h5fb0d7bk5l_jv80000gp/T/TemporaryItems/NSIRD_screencaptureui_hnVmjX/Screenshot%202025-06-01%20at%203.13.05%E2%80%AFPM.png)
+![Recording](<img width="726" alt="Screenshot 2025-06-01 at 3 15 18 PM" src="https://github.com/user-attachments/assets/377bca29-d733-448d-836f-6b3eddf02002" />
+)
 
 ![Deployment](https://velvety-parfait-7bcf3f.netlify.app/)
 
