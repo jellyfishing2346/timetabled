@@ -6,7 +6,7 @@
 ![WEB 102 Lab 1 - timetabled submission](https://github.com/user-attachments/assets/b4c75b07-45f2-42e3-bfff-575ec15586ce)
 
 
-![Deployment](https://velvety-parfait-7bcf3f.netlify.app/)
+[Deployment](https://velvety-parfait-7bcf3f.netlify.app/)
 
 A responsive weekly calendar application built with React and Vite that displays color-coded hourly events across seven days.
 
