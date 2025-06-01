@@ -2,6 +2,8 @@
 
 ![Timetabled Screenshot](https://courses.codepath.org/course_images/web102/lab1/required.png)
 
+Link: https://ezgif.com/video-to-gif/ezgif-1b93a0c8b0177.mp4
+
 A responsive weekly calendar application built with React and Vite that displays color-coded hourly events across seven days.
 
 ## Features
