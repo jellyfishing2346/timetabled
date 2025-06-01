@@ -2,7 +2,7 @@
 
 ![Timetabled Screenshot](https://courses.codepath.org/course_images/web102/lab1/required.png)
 
-![Recording](https://ezgif.com/video-to-gif/ezgif-1b93a0c8b0177.mp4)
+![Recording](file:///var/folders/b2/rycdlzl16h5fb0d7bk5l_jv80000gp/T/TemporaryItems/NSIRD_screencaptureui_hnVmjX/Screenshot%202025-06-01%20at%203.13.05%E2%80%AFPM.png)
 
 ![Deployment](https://velvety-parfait-7bcf3f.netlify.app/)
 
